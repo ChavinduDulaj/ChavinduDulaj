@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on **Stock market analysis and prediction in Sri Lanka**
 
-- 👨‍💻 Some of my projects are available at [https://chavindudulaj.github.io/](https://chavindudulaj.github.io/)
+- 👨‍💻 Some of my projects are available at [chavindudulaj.com](https://chavindudulaj.github.io/)
   
-- 🧑‍💼 I am founder and content creator at (https://www.linkedin.com/company/data-lab-sri-lanka/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BZxpTG%2B4lSsGK%2BPjkl%2FhB1Q%3D%3D)
+- 🧑‍💼 I am founder and content creator at [Data Lab Sri Lanka](https://www.linkedin.com/company/data-lab-sri-lanka/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BZxpTG%2B4lSsGK%2BPjkl%2FhB1Q%3D%3D)
 
 - 📝 I regularly write articles on [https://datalabsrilanka.blogspot.com](https://datalabsrilanka.blogspot.com)
 
