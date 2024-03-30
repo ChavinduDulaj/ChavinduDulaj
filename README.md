@@ -29,10 +29,8 @@
 <a href="https://www.kaggle.com/chavindudulaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chavindu dulaj" height="30" width="40" /></a>
 <a href="https://www.instagram.com/chavindu__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chavindu_" height="30" width="40" /></a> 
 <a href="https://datalabsrilanka.blogspot.com/" target="_blank">
-    <img align="center" src="https://1.bp.blogspot.com/-D85TtZ6F7XM/XoXx65gUWhI/AAAAAAAACZI/HcHMLuhbAWUuB2_3sM-T84tf68PvKQFvQCLcBGAsYHQ/s1600/instagram.png" alt="chavindu_" height="30" width="40" />
+    <img align="center" src="https://www.kindpng.com/picc/m/175-1757235_blogger-logo-blog-logo-transparent-hd-png-download.png" alt="chavindu_" height="30" width="40" />
 </a>
-  
-  https://datalabsrilanka.blogspot.com/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
