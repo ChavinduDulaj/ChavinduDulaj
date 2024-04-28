@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQ2a2tsZXVvbmN4ZG1mNTAyM2I5aW1mcWkwcDg4M3F0aHlpZ29rYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated" width="200" height="200" />
 </p>
 
-- 🔭 I’m currently working on [Time Series Forecasting End to End Projects](https://github.com/ChavinduDulaj/Time-Series-Forecasting-End-to-End-Projects)
+- 🔭 I’m currently working on [Computer Vision Projects with Data Annotation and Data Labeling](https://github.com/ChavinduDulaj/Computer-Vision-Projects)
 
 - 🌱 I’m currently learning **Machine Learning, Advanced Statistics, Advanced Python, Flutter**
 
