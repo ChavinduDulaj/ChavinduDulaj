@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Computer Vision Projects with Data Annotation and Data Labeling](https://github.com/ChavinduDulaj/Computer-Vision-Projects)
 
-- 🌱 I’m currently learning **Machine Learning, Advanced Statistics, Advanced Python, Flutter**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning, Advanced Statistics, Advanced Python, Flutter**
 
 - 👯 I’m looking to collaborate on **Stock market analysis and prediction in Sri Lanka**
 
